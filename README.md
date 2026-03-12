@@ -17,3 +17,6 @@ sudo system enable nginx
 
 
 webpage is kept at /var/www/nginx
+
+Happy Learning
+meera kaushik
