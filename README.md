@@ -8,7 +8,7 @@ this project helps you install nginx and then show a demo page
 
 
 
-sudo aot-get update
+sudo apt-get update
 sudo apt install nginx
 
 
